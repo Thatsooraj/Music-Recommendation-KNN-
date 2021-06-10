@@ -6,6 +6,10 @@ collaborative-based filters predict what a user like based on what other users, 
 
 We have previously developed a content-based recommendation system. Now, we'll look into collaborative filtering.
 
+**Download Dataset From :**
+https://www.kaggle.com/mgmarques/million-song-recommendation-engines
+You have to convert .txt file to .csv
+
 ## Collaborative filters
 Collaborative Filters work with an interaction matrix, also called rating matrix. The aim of this algorithm is to learn a function that can predict if a user will benefit from an item - meaning the user will likely buy, listen to, watch this item.
 
